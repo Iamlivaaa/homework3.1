@@ -189,7 +189,7 @@ public class Main {
             int ifMax = goalGramm / maxGrammPerDay;
             System.out.println("Если спортсмен будет терять в день по 500 грамм, то " + ifMax + " дней");
             int avgDays = goalGramm / maxGrammPerDay;
-            System.out.println("Если спортсмен будет терять лишь в среднем, то " + avgDays + " дней");
+            System.out.println("Если спортсмен будет терять только в среднем, то " + avgDays + " дней");
 
             int Masha = 67760;
             int Denis = 83690;
